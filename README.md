@@ -1,7 +1,7 @@
 
 # ನೇತಾಜಿ ಯುವ ಸೇನೆ, ಹೋಳೂರು 🙏
 
-###Contributors will be appreciated 💀
+### Contributors will be appreciated 💀
 
 A community group web application built using **Typescript**.
 
